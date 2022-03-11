@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IB-Carpool</string>
+
+    <string-array name="vehicleTypes">
+        <item>car</item>
+        <item>helicopter</item>
+        <item>tank</item>
+    </string-array>
+
+    <string-array name="userTypes">
+        <item>student</item>
+        <item>teacher</item>
+        <item>parent</item>
+    </string-array>
+</resources>
